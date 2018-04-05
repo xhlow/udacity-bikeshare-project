@@ -1,4 +1,4 @@
-Resources referred:
+## Resources referred:
 How to use pandas in general: Lessons in the Introduction to Data Analysis section of DAND
 
 Let pandas recognize datetime columns using parse_dates:
