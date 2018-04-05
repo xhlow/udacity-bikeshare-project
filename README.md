@@ -1,5 +1,5 @@
 ## Resources referred:
-Let pandas recognize datetime columns using parse_dates:
+Use parse_dates to recognize datetime columns:
 * https://stackoverflow.com/questions/21269399/datetime-dtypes-in-pandas-read-csv
 * https://stackoverflow.com/questions/17465045/can-pandas-automatically-recognize-dates
 * https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html
@@ -25,11 +25,11 @@ Convert seconds to hours, minutes and seconds:
 * https://stackoverflow.com/questions/775049/how-to-convert-seconds-to-hours-minutes-and-seconds
 * https://docs.python.org/3/library/functions.html#divmod
 
-Convert series or dataframes to string:
+Convert pandas series or dataframes to string:
 * https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.to_string.html
 * https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.to_string.html
 
-Concatenate strings of two columns and create a column for the concatenated strings:
+Concatenate strings of two columns:
 * https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-dataframe-in-pandas-python
 * http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.str.cat.html#pandas.Series.str.cat
 
@@ -37,5 +37,5 @@ Set column widths:
 * https://pandas.pydata.org/pandas-docs/stable/options.html
 * https://pandas.pydata.org/pandas-docs/stable/generated/pandas.set_option.html
 
-Other pandas ans numpy functions:
-* Lessons in the Introduction to Data Analysis section of DAND
+Other pandas and numpy functions:
+* Lessons in the Introduction to Data Analysis section of Udacity's Data Aanalyst Nanodegree (DAND)
