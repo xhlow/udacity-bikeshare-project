@@ -29,6 +29,9 @@ The script answers the following questions about the bike share data:
 * What are the counts of gender?
 * What are the earliest (i.e. oldest person), most recent (i.e. youngest person), and most popular birth years?
 
+## Future scopes
+In the future, more functions that compute statistics will be added to answer more questions about the data. The possibilities of improving the interactive experience (e.g turning this script into a web app) will also be explored.
+
 ## Resources referred to complete this project
 Use parse_dates to recognize datetime columns:
 * https://stackoverflow.com/questions/21269399/datetime-dtypes-in-pandas-read-csv
